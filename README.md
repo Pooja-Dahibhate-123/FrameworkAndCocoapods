@@ -1,0 +1,2 @@
+# FrameworkAndCocoapods
+My framework
